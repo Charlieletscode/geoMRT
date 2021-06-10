@@ -3,9 +3,24 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="center"
-    android:orientation="vertical" >
-    <Button android:id="@+id/btn"
-        android:text="Display in Google map"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/btn"
+        android:text="Drive"
+        android:layout_height="200sp"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        />
+    <Button
+        android:id="@+id/btn1"
+        android:text="Walk"
+        android:layout_height="200sp"
+        android:layout_width="match_parent"
+        />
+    <Button
+        android:id="@+id/btn2"
+        android:text="Bicycle"
+        android:layout_height="200sp"
+        android:layout_width="match_parent"
+        />
+
 </LinearLayout>
