@@ -1,6 +1,3 @@
-# geoMRT
-miniproj
-![image](https://github.com/Charlieletscode/RESTAPI/blob/main/image.jpg)
 # geoMRT MINIPROJECT practice
 
 Software Mini Project - 3 day rush (5 day rush) of coding
@@ -16,4 +13,4 @@ Software Mini Project - 3 day rush (5 day rush) of coding
 [GoogleMap API] 
 
 ## Demo Video
-[https://www.youtube.com/watch?v=GKq9ehyZq0E](https://youtu.be/-wVdJl_N9yc](https://youtu.be/-wVdJl_N9yc)
+[![IMAGE](https://github.com/Charlieletscode/RESTAPI/blob/main/mq4.jpg)][https://www.youtube.com/watch?v=GKq9ehyZq0E](https://youtu.be/-wVdJl_N9yc](https://youtu.be/-wVdJl_N9yc)
